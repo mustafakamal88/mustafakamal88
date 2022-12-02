@@ -2,6 +2,8 @@
 #### Mid-level Android Developer
 ![Mid-level Android Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
+https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667
+
 I'm Mustafa from Pakistan, and I do Android Apps Development & Design. I really enjoy learning languages and frameworks like Kotlin, KMM & Android Compose, as well as working in Native Android. I also enjoy wireframing, UI, UX, & design in general.
 
 Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
