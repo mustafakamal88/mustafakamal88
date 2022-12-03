@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mustafa Kamal
 #### Mid-level Android Developer
 ![Mid-level Android Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-                                                                                ![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
 
 
 I'm Mustafa from Pakistan, and I do Android Apps Development & Design. I really enjoy learning languages and frameworks like Kotlin, KMM & Android Compose, as well as working in Native Android. I also enjoy wireframing, UI, UX, & design in general.
@@ -17,6 +17,7 @@ Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 - ⚡ Fun fact: ☕️🥰 
 
 <br>
+<a href="https://www.linkedin.com/in/mksadaat/"><img align="left" src="https:(https://user-images.githubusercontent.com/35607112/205458667-c2e294e3-27db-4131-a118-7de4adfb9a5b.png"alt="Mustafa Kamal | LinkedIn"/></a>
 
 <a href="https://www.linkedin.com/in/mksadaat/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 </br>
