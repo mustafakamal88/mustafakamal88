@@ -17,7 +17,8 @@ Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 - ⚡ Fun fact: ☕️🥰 
 
 <br>
-<a href="https://www.linkedin.com/in/mksadaat/"> ![linkedin](https://user-images.githubusercontent.com/35607112/205458879-bcb522d7-5fcd-4784-a2fe-55af3ae9bb6a.png)/></a>
+
+![linkedin](https://user-images.githubusercontent.com/35607112/205458926-92522d31-d27d-43aa-a8f8-cc3febc3aadd.png)
 
 <a href="https://www.linkedin.com/in/mksadaat/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 </br>
