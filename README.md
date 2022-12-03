@@ -17,11 +17,11 @@ Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 - ⚡ Fun fact: ☕️🥰 
 
 <br>
-<a href=”https://www.linkedin.com/in/mksadaat/"><img align=”left” src=”https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/linkedin.png" alt=”MustafaKamal | LinkedIn” width=”21px”/></a>
+![icons8-github](https://user-images.githubusercontent.com/35607112/205461392-73c18e06-7701-49e8-ab1a-69b87f957e1b.svg)
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
+- 
 <br>
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
