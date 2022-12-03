@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Mustafa Kamal
 #### Mid-level Android Developer
 ![Mid-level Android Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
+                                        Profile Vister
+                                        ![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
+
 
 I'm Mustafa from Pakistan, and I do Android Apps Development & Design. I really enjoy learning languages and frameworks like Kotlin, KMM & Android Compose, as well as working in Native Android. I also enjoy wireframing, UI, UX, & design in general.
 
