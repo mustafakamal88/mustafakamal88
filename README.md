@@ -17,7 +17,7 @@ Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 - ⚡ Fun fact: ☕️🥰 
 
 <br>
-<a href=”https://www.linkedin.com/in/mksadaat/"><img align=”left” src=”https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/linkedin.svg" alt=”MustafaKamal | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/mksadaat/"><img align=”left” src=”https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/linkedin.png" alt=”MustafaKamal | LinkedIn” width=”21px”/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
