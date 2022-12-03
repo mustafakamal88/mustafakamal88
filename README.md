@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Mustafa Kamal
 #### Mid-level Android Developer
 ![Mid-level Android Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
 I'm Mustafa from Pakistan, and I do Android Apps Development & Design. I really enjoy learning languages and frameworks like Kotlin, KMM & Android Compose, as well as working in Native Android. I also enjoy wireframing, UI, UX, & design in general.
@@ -12,15 +13,12 @@ Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 - 👯 I’m looking to collaborate on Application Development 
 - 🤔 I’m looking for help with Android Networking 
 - 💬 Ask me about AdMob & Play Console Policy Related  
-- 📫 How to reach me: m.sadaat88@gmail.com 
 - 😄 Pronouns: Mustafa 
 - ⚡ Fun fact: ☕️🥰 
 
 <br>
 
 <a href="https://www.linkedin.com/in/mksadaat/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
