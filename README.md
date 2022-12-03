@@ -17,7 +17,6 @@ Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 - ⚡ Fun fact: ☕️🥰 
 
 <br>
-![icons8-github](https://user-images.githubusercontent.com/35607112/205461392-73c18e06-7701-49e8-ab1a-69b87f957e1b.svg)
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
