@@ -4,7 +4,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
 
 
-I'm Mustafa from Pakistan, and I do Android Apps Development & Designing. I really enjoy learning languages and frameworks like Kotlin, KMM & Android Compose, as well as working in Native Android. I also enjoy wireframing, UI, UX, & designing in general.
+I'm Mustafa from Pakistan, and I do Android app development & design. I enjoy learning languages and frameworks like Kotlin, KMM & Android Compose, as well as working in Native Android. I also enjoy wireframing, UI, UX, & designing in general.
 
 Skills: Java/ Android/ Kotlin/ Jetpack Compose/ KMM
 
