@@ -1,6 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/banner.gif" alt="MasterHead" width="1000" height="450"/>
 
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/vector.png"/>
+
 ## 💫 About Me: 
 👋 Hi, I'm Mustafa Kamal, an experienced Android developer with over 4.5 years in the field. I specialize in Java, Kotlin, and Android Studio, and also have a strong background in cross-platform web app management using ASP.NET Core MVC and ReactJS.
 
