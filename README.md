@@ -1,6 +1,15 @@
 
 <img src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/banner.gif" alt="MasterHead" width="1000" height="450"/>
 
+## 💫 About Me: 
+👋 Hi, I'm Mustafa Kamal, an experienced Android developer with over 4.5 years in the field. I specialize in Java, Kotlin, and Android Studio, and also have a strong background in cross-platform web app management using ASP.NET Core MVC and ReactJS.
+
+🚀 Skilled in Agile and Scrum methodologies, I thrive in dynamic project environments, ensuring timely delivery through effective project management.
+
+🤝 I bring a comprehensive skill set encompassing version control, SDLC, and quality assurance, dedicated to driving successful software development projects.
+
+🌱 Let's connect to explore collaboration opportunities in the dynamic world of software engineering.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mksadaat) [![Gmail](https://img.shields.io/badge/Mail-EE0000?logo=gmail&logoColor=white)](mailto:hey_mk@outlook.com)
