@@ -2,14 +2,30 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/vector.png"/>
 
 ## 💫 About Me: 
-👋 Hi, I'm Mustafa Kamal, an experienced Android developer with over 4.5 years in the field. I specialize in Java, Kotlin, and Android Studio, and also have a strong background in cross-platform web app management using ASP.NET Core MVC and ReactJS.
+👋 Hi, I’m Mustafa Kamal!
+A passionate and skilled Full-Stack Software Engineer with over 6 years of experience, specializing in Android development using Kotlin, Kotlin Multiplatform (KMP), and Java. I have expertise in designing and building robust cross-platform applications for mobile, desktop, and web platforms.
 
-🚀 Skilled in Agile and Scrum methodologies, I thrive in dynamic project environments, ensuring timely delivery through effective project management.
+🎓 Education:
+	•	Master’s in Computer Science, Edinburgh Napier University, 2024
+	•	Bachelor’s in Computer Science, The University of Agriculture Peshawar, Institute of Business & Management Sciences (IBMS), 2017
 
-🤝 I bring a comprehensive skill set encompassing version control, SDLC, and quality assurance, dedicated to driving successful software development projects.
+🌟 What I Bring to the Table:
+	•	Proficiency in Android Studio, Compose, and ASP.NET Core MVC for creating seamless and scalable applications.
+	•	Experience in cross-platform development using modern technologies like ReactJS and Kotlin Multiplatform.
+	•	Expertise in Agile and Scrum methodologies, ensuring timely and efficient project delivery.
+	•	Solid understanding of version control systems, SDLC, and quality assurance practices, ensuring high-quality outputs.
 
-🌱 Let's connect to explore collaboration opportunities in the dynamic world of software engineering.
+🚀 Core Strengths:
+	•	Crafting innovative digital solutions tailored to diverse business needs.
+	•	A deep focus on user experience (UX) and intuitive UI design.
+	•	Versatility in both frontend and backend development, with hands-on experience in integrating APIs and managing databases.
+	•	A knack for collaborating with dynamic teams to bring projects to life.
 
+🤝 Let’s Collaborate:
+I’m excited to connect with like-minded professionals and organizations to build impactful software solutions. Whether it’s mobile apps, cross-platform tools, or SaaS platforms, I’m ready to tackle complex challenges and contribute to the ever-evolving tech landscape.
+
+📫 Reach Out to Me:
+m.sadaat88@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mksadaat) [![Google Play Store](https://img.shields.io/badge/PlayStore-%23FFFFFFFF.svg?logo=google-play&logoColor=black)](https://play.google.com/store/apps/developer?id=YOUR+ID) [![App Store](https://img.shields.io/badge/AppStore-%23FFFFFFFF.svg?logo=app-store&logoColor=black)](https://play.google.com/store/apps/developer?id=YOUR+ID) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_mustafakamal_) [![Medium](https://img.shields.io/badge/Medium-%23FF000000.svg?logo=Medium&logoColor=white)](https://medium.com/@m.sadaat88) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11336765/m-k)
