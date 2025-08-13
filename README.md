@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-![Header](images/github-banner.png.png)
-
-
 # Hi, I'm Mustafa Kamal 👋  
 
 💻 **Full-Stack Software Engineer** & **Trading Automation Developer** with 6+ years of experience delivering high-performance applications for mobile, web, and cross-platform environments.  
