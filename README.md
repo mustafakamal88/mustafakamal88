@@ -1,5 +1,5 @@
-
-![Header](https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/github-banner.png)
+<!-- Banner Image -->
+![Header](images/github-banner.png.png)
 
 <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/vector.png" />
 
@@ -24,8 +24,9 @@
 ## 📊 Current Focus (2025–2026)
 - Building **SaaS trading analytics tools**  
 - Cross-platform mobile apps using **Kotlin Multiplatform**  
-- Low-latency market data & automated strategies
-  
+- Low-latency market data & automated strategies  
+- Writing and sharing **technical content** on Medium
+
 ---
 
 ## 🎓 Education
