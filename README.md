@@ -20,7 +20,6 @@
 - Building **SaaS trading analytics tools**  
 - Cross-platform mobile apps using **Kotlin Multiplatform**  
 - Low-latency market data & automated strategies  
-- Writing and sharing **technical content** on Medium
 
 ---
 
