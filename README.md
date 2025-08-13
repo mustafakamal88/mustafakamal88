@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 ![Header](images/github-banner.png.png)
 
-<img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/vector.png" />
 
 # Hi, I'm Mustafa Kamal 👋  
 
