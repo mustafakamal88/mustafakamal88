@@ -24,9 +24,8 @@
 ## 📊 Current Focus (2025–2026)
 - Building **SaaS trading analytics tools**  
 - Cross-platform mobile apps using **Kotlin Multiplatform**  
-- Low-latency market data & automated strategies  
-- Writing and sharing **technical content** on Medium
-
+- Low-latency market data & automated strategies
+  
 ---
 
 ## 🎓 Education
