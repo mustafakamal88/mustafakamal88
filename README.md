@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+
 ![Header](https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/github-banner.png)
 
 <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/mustafakamal88/mustafakamal88/main/images/vector.png" />
